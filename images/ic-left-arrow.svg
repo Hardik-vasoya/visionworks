@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 12" width="17" height="12">
+	<title>ic-right-arrow-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #ffffff } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m7.47 0.72l-5.29 4.77l14.01 0l0 1.03l-14.01 0l5.29 4.77l-0.8 0.72l-6.67-6l6.67-6l0.8 0.72z" />
+</svg>
